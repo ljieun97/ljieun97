@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MonhoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
 
 #### :mailbox: Contacts
-(https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldms8196@gmail.com)(https://www.wldms8196@gmail.com)&nbsp;
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>&nbsp;
