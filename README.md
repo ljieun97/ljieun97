@@ -1,4 +1,4 @@
-### Hello My name is Jieun, I am a developer 👋
+### Hello My name is Jieun 👋
 
 <!--
 **ljieun97/ljieun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
