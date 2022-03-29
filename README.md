@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### :computer: Tech
+<!-- #### :computer: Tech
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MonhoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp;
 
 #### :mailbox: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldms8196@gmail.com)](mailto:wldms8196@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wldms8196@gmail.com)](mailto:wldms8196@gmail.com) -->
