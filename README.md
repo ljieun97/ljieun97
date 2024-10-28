@@ -1,6 +1,6 @@
 ### Hello My name is Jieun 👋
 
-synctechno (2022 ~ 2024) https://github.com/jiexn 
+synctechno (2022 ~ 2024)
 
 <!--
 **ljieun97/ljieun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
