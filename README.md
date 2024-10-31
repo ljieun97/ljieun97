@@ -1,5 +1,8 @@
 ### Hello My name is Jieun 👋
 
+<a href="https://my-data-iota.vercel.app">영화기록사이트</a>
+<a href="https://my-data-iota.vercel.app">게임공략사이트</a>
+
 synctechno (2022 ~ 2024)
 
 <!--
