@@ -1,9 +1,11 @@
 ### Hello My name is Jieun 👋
 
-<p><a href="https://my-data-iota.vercel.app">영화기록사이트</a></p>
-<p><a href="https://lawiki.vercel.app/ely">게임공략사이트</a></p>
+경력
+- synctechno (2022 ~ 2024)
 
-synctechno (2022 ~ 2024)
+포트폴리오
+- <p><a href="https://my-data-iota.vercel.app">영화기록사이트</a></p>
+- <p><a href="https://lawiki.vercel.app/ely">게임공략사이트</a></p>
 
 <!--
 **ljieun97/ljieun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
