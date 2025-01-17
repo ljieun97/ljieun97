@@ -4,7 +4,7 @@
 - synctechno (2022 ~ 2024)
 
 포트폴리오
-- <p><a href="https://my-data-iota.vercel.app">영화기록사이트</a></p>
+- <p><a href="https://today-movie.vercel.app">영화기록사이트</a></p>
 - <p><a href="https://lawiki.vercel.app/ely">게임공략사이트</a></p>
 
 <!--
