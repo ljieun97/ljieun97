@@ -7,6 +7,7 @@
 - <p><a href="https://today-movie.vercel.app">영화기록사이트</a> (my-data) </p>
 - <p><a href="https://lawiki.vercel.app/ely">게임공략사이트</a> (lawiki) </p>
 - <p><a href="https://character-chart.vercel.app">애니인물관계도</a> (timeline) </p>
+- <p><a href="https://watchsort.vercel.app">포스터정렬갤러리</a> (watch-sort) </p>
 
 <!--
 **ljieun97/ljieun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
